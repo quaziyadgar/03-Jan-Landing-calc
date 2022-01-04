@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://images.pexels.com/photos/9799359/pexels-photo-9799359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+header img{
+    display: block;
+    margin: 60px auto 0 auto;
+}
+.center{
+    border: 1px solid red;
+    text-align: center;
+    color: aliceblue;
+    padding: 50px;
+
+}
+.link{
+    border: 1 px solid blue;
+    text-align: center;
+}
+.link{
+    border: 1px solid green;
+
+}
+.video-center {
+    border: 10 px solid red;
+}
