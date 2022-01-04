@@ -1,0 +1,38 @@
+.calc-border{
+    margin: 80px auto 0 auto;
+    border: 1px solid black;
+    width: 350px;
+    height: 480px;
+    display: block;
+    background-color: grey;
+    
+}
+.input-box{
+    width: 90%;
+    /* border: 1px solid brown; */
+    margin: 30px auto 0 auto;
+    height: 100px;
+}
+.inp{
+    width: 97.5%;
+    height: 97.5%;
+}
+.calc-btn{
+    /* display: block; */
+    padding: 0 0 8px 0;
+}
+.btn-border{
+    margin: 20px auto 0 20px; 
+}
+.btn{
+    height: 55px;
+    width: 75px;
+    font-size: 25px;
+    background-color: azure;
+}
+.equal{
+    background-color: rgb(32, 155, 79);
+}
+[input="text"]{
+    /* font-size: larger; */
+}
